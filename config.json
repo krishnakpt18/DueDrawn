@@ -1,0 +1,6 @@
+{
+    "input_path":       "data/employee.xlsx",
+    "output_path":      "output/statement.xlsx",
+    "batch_input_dir":  "data",
+    "batch_output_dir": "output"
+  }
